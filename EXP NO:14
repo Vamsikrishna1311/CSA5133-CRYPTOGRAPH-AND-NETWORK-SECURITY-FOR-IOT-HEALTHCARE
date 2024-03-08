@@ -40,3 +40,4 @@ int main() {
     encrypt(plaintext, key, ciphertext);
     printf("Ciphertext: %s\n", ciphertext);
     return 0 ;
+}
